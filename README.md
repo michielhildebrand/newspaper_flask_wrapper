@@ -1,5 +1,5 @@
 # Newspaper Flask Wrapper
-Simple wrapper to provide the newspaper library as a service. For now only simple parsing of articles is supported.
+Simple wrapper to provide the [newspaper python library](https://github.com/codelucas/newspaper) as a service. For now only simple parsing of articles is supported.
 
 ## Requirements
 * python 3
