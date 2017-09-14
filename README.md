@@ -3,6 +3,7 @@ Simple wrapper to provide the [newspaper python library](https://github.com/code
 
 ## Requirements
 * python 3
+* libxml2-dev libxslt-dev
 * See requirements.txt
 
 ## Install and deploy
